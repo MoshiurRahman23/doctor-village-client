@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "65fd24a5b12f4f6e3cebc216",
+        "balance": "$2,673.42",
+        "picture": "/src/assets/CardImage/doc1.jpg",
+        "age": 27,
+        "name": "Turner Jefferson",
+        "email": "turnerjefferson@buzzmaker.com",
+        "phone": "+1 (889) 552-2225",
+        "address": "669 Corbin Place, Coinjock, New Hampshire, 893",
+        "about": "Aute magna excepteur sint pariatur culpa in nostrud labore nisi Lorem eiusmod aute eu. Fugiat laboris commodo est adipisicing proident minim aliquip ipsum aliquip dolor. Proident duis est consectetur proident do ullamco pariatur adipisicing. Cupidatat dolor ad fugiat irure eu.\r\n"
+    },
+    {
+        "_id": "65fd24a5256185e6321211dc",
+        "balance": "$2,219.37",
+        "picture": "/src/assets/CardImage/doc10.jpg",
+        "age": 28,
+        "name": "Fox Bridges",
+        "email": "foxbridges@buzzmaker.com",
+        "phone": "+1 (964) 593-3126",
+        "address": "557 Box Street, Winchester, Virginia, 5762",
+        "about": "Magna fugiat in velit ea incididunt et proident in esse labore qui. Aliqua consequat dolor consequat velit labore officia ea nulla excepteur ea cupidatat cillum. Amet non anim nisi laborum officia cillum culpa cupidatat ut esse consequat irure. Amet mollit ad esse in velit dolor nulla laboris proident. Quis amet laborum aute non consequat esse sint. Proident incididunt laborum in Lorem aliqua in aliquip elit duis.\r\n"
+    },
+    {
+        "_id": "65fd24a5a8b19167886ef732",
+        "balance": "$2,788.68",
+        "picture": "/src/assets/CardImage/doc2.jpg",
+        "age": 33,
+        "name": "Curry Knight",
+        "email": "curryknight@buzzmaker.com",
+        "phone": "+1 (849) 502-2692",
+        "address": "641 Boynton Place, Harviell, Utah, 237",
+        "about": "Ut sit nisi non adipisicing non quis occaecat tempor reprehenderit id dolore anim officia. Aliquip aute voluptate eiusmod cupidatat Lorem minim nulla amet est. Enim qui duis minim nostrud ut non est excepteur ad in mollit tempor anim anim. Lorem ipsum anim irure officia.\r\n"
+    },
+    {
+        "_id": "65fd24a5c787e0ded946ba41",
+        "balance": "$1,263.80",
+        "picture": "/src/assets/CardImage/doc3.jpg",
+        "age": 39,
+        "name": "Beatrice Vance",
+        "email": "beatricevance@buzzmaker.com",
+        "phone": "+1 (964) 550-2370",
+        "address": "303 Freeman Street, Clarksburg, Oregon, 3939",
+        "about": "Cupidatat amet magna sit ullamco aliqua nostrud. Laboris aute elit in incididunt tempor ullamco eiusmod amet consectetur culpa voluptate. Laboris irure labore aliquip ullamco. Est anim aliquip sunt aliqua nulla et culpa elit proident anim esse.\r\n"
+    },
+    {
+        "_id": "65fd24a59f6cd927b9240620",
+        "balance": "$3,779.11",
+        "picture": "/src/assets/CardImage/doc4.jpg",
+        "age": 27,
+        "name": "Jillian Arnold",
+        "email": "jillianarnold@buzzmaker.com",
+        "phone": "+1 (955) 492-2658",
+        "address": "743 Irving Place, Maxville, California, 8883",
+        "about": "Aute occaecat cillum voluptate mollit anim mollit elit culpa ea pariatur deserunt ullamco est. Qui sunt deserunt mollit ipsum laborum eiusmod ipsum amet amet eu labore labore. Incididunt non incididunt veniam duis officia ad veniam. Elit enim commodo tempor sunt nostrud. Et ut reprehenderit consequat esse quis id anim est dolore nostrud nostrud esse sit.\r\n"
+    },
+    {
+        "_id": "65fd24a585ce6e7c055b7067",
+        "balance": "$1,133.58",
+        "picture": "/src/assets/CardImage/doc5.jpg",
+        "age": 27,
+        "name": "Leona Foreman",
+        "email": "leonaforeman@buzzmaker.com",
+        "phone": "+1 (911) 580-3555",
+        "address": "433 Bayview Avenue, Wyano, Rhode Island, 8515",
+        "about": "Cupidatat sint incididunt exercitation ea consequat nostrud. Nisi dolor incididunt incididunt aliquip. Dolor eu ullamco incididunt adipisicing esse eiusmod.\r\n"
+    },
+    {
+        "_id": "65fd24a53c158e65727ad9cb",
+        "balance": "$3,982.58",
+        "picture": "/src/assets/CardImage/doc6.jpg",
+        "age": 29,
+        "name": "Louisa Dawson",
+        "email": "louisadawson@buzzmaker.com",
+        "phone": "+1 (828) 418-2416",
+        "address": "884 Albany Avenue, Whitmer, West Virginia, 9320",
+        "about": "Deserunt ut magna in amet voluptate. Mollit ut culpa magna dolor laborum culpa officia officia ad in labore. Anim aliquip reprehenderit do velit adipisicing. Id officia est quis in ea sint officia nostrud. Esse sint magna veniam non ex. Culpa exercitation do nostrud fugiat ex ullamco. Ea adipisicing dolor commodo sit ad id fugiat mollit tempor cupidatat tempor dolore.\r\n"
+    },
+    {
+        "_id": "65fd24a57f74e9e338027cfa",
+        "balance": "$3,731.25",
+        "picture": "/src/assets/CardImage/doc7.jpg",
+        "age": 40,
+        "name": "Becker Branch",
+        "email": "beckerbranch@buzzmaker.com",
+        "phone": "+1 (892) 597-2141",
+        "address": "787 Bedell Lane, Genoa, Massachusetts, 8671",
+        "about": "Tempor nostrud eu cupidatat elit consequat cillum qui labore laboris incididunt veniam aliqua enim nulla. Ullamco nisi Lorem pariatur ex anim sit et adipisicing cillum minim. Ea aliquip culpa aliquip esse cupidatat. Nisi minim adipisicing ex amet reprehenderit reprehenderit aliqua cupidatat sit ullamco.\r\n"
+    },
+    {
+        "_id": "65fd24a56963500ebb6e936a",
+        "balance": "$2,409.98",
+        "picture": "/src/assets/CardImage/doc8.jpg",
+        "age": 23,
+        "name": "Alyce Lindsay",
+        "email": "alycelindsay@buzzmaker.com",
+        "phone": "+1 (881) 515-2152",
+        "address": "898 Hyman Court, Adelino, Kansas, 3997",
+        "about": "Magna Lorem quis ullamco tempor. Excepteur tempor id ullamco aliqua cupidatat mollit officia quis. Ut sint eu aute proident commodo laboris id exercitation sint consequat nostrud.\r\n"
+    },
+    {
+        "_id": "65fd24a54aeae55f9cd70f22",
+        "balance": "$2,590.85",
+        "picture": "/src/assets/CardImage/doc9.jpg",
+        "age": 39,
+        "name": "Norris Young",
+        "email": "norrisyoung@buzzmaker.com",
+        "phone": "+1 (914) 555-3163",
+        "address": "881 Newel Street, Ballico, Maine, 2487",
+        "about": "Voluptate magna consequat eiusmod anim deserunt dolore ullamco. Labore do cupidatat reprehenderit laborum aliquip dolore exercitation quis velit ullamco. Do culpa sit fugiat eiusmod et proident Lorem culpa nisi. Commodo dolore magna ex amet proident dolore excepteur pariatur aliqua.\r\n"
+    },
+    {
+        "_id": "65fd24a56258e8012c64599c",
+        "balance": "$3,822.33",
+        "picture": "/src/assets/CardImage/doc1.jpg",
+        "age": 40,
+        "name": "Stanley Camacho",
+        "email": "stanleycamacho@buzzmaker.com",
+        "phone": "+1 (804) 403-2258",
+        "address": "751 Carlton Avenue, Westmoreland, New York, 7487",
+        "about": "Amet cupidatat dolore Lorem qui dolor in non reprehenderit in id. Nulla tempor id ex adipisicing adipisicing amet. Culpa velit adipisicing Lorem reprehenderit sit magna sunt veniam adipisicing do esse.\r\n"
+    }
+]

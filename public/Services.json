@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Teeth Orthodontics",
+        "picture": "/src/assets/Appointment/Teeth Orthodontics.jpeg",
+        "slots": "Orthodontics is a specialist branch of dentistry. The term 'orthodontics' can be broken down into two Greek words - orthos meaning straight or correct and dontics meaning teeth. Orthodontics therefore describes the practice of straightening misaligned teeth or malocclusions. Dentists who specialize in orthodontics can help manage abnormal positioning of the teeth, jaws and face."
+    },
+    {
+        "id": 2,
+        "name": "Cosmetic Dentistry",
+        "picture": "/src/assets/Appointment/Dentisty.jpeg",
+        "slots": "Not all of us have perfect teeth, much less perfect bites. Some have overbites, while others have crossbites, underbites, or dental crowding. People with unbalanced bites are always in danger of damaging their teeth when they bite down on hard food. Cosmetic dentistry treatments like Invisalign can help correct bad bites and minimize the risk of damage to their teeth."
+    },
+    {
+        "id": 3,
+        "name": "Teeth Cleaning",
+        "picture": "/src/assets/Appointment/Teeth cleaning.jpeg",
+        "slots": "With the small mirror to guide them, the dental hygienist uses a scaler to get rid of plaque and tartar around your gum line, as well as in between your teeth. You’ll hear scraping, but this is normal. The more tartar there is in your mouth, the more time they’ll need to scrape a particular spot."
+    },
+    {
+        "id": 4,
+        "name": "Cavity Protection",
+        "picture": "/src/assets/Appointment/Cavity Protection.jpeg",
+        "slots": "Crest Pro-Health Maximum Cavity Protection stops cavities before they start. Most toothpastes quit working in minutes, but the antibacterial fluoride in Crest Pro-Health protects for up to 12 hours. Crest has you covered by protecting against cavities, early gum disease, enamel, plaque, whitening, and fresh breath. From Crest, the #1 Toothpaste brand in America."
+    },
+    {
+        "id": 5,
+        "name": "Oral Surgery",
+        "picture": "/src/assets/Appointment/Oral Surgery.jpeg",
+        "slots": "If you’re a qualified dentist who wishes to pursue a career in Oral Surgery, this Programme is for you. The Professional Doctorate in Oral Surgery provides you with an integrated three-year training programme, so you can gain high-level research expertise alongside your clinical training."
+    }
+]
