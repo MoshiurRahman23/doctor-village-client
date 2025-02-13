@@ -7,7 +7,7 @@ const DoctorsInfo = () => {
   console.log(docDetails);
 
   useEffect(() => {
-    fetch("https://doctor-village-server.vercel.app/doctorsDetails")
+    fetch("https://doctor-village-client.vercel.app/doctorsDetails")
       .then((res) => res.json())
       .then((data) => setDocDetails(data));
   }, []);

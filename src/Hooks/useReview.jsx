@@ -5,7 +5,7 @@ const useReview = () => {
   const [loading, setLoading] = useState(true);
   // console.log(reviews);
   useEffect(() => {
-    fetch("https://doctor-village-server.vercel.app/reviews")
+    fetch("https://doctor-village-client.vercel.app/reviews")
       .then((res) => res.json())
       .then((data) => setReviews(data));
     setLoading(false);
